@@ -1,5 +1,5 @@
 # MOVIES LIB
-<p>Projeto feito com React.js, utilizando VITE para facilitação.</p>
+<p>Projeto feito com ReactJs e ViteJS.</p>
 <p>API usada: <a href="https://www.themoviedb.org/" target="_blank">The Movie db</a></p>
 
 ## 🔵Página PRINCIPAL
