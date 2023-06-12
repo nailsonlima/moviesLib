@@ -12,3 +12,4 @@
  
 ## Recurso de PESQUISA🔍
 <img src="./assets/toReadme/pesquisa.gif"/>
+
